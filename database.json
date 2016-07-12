@@ -7,12 +7,17 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/9aa2b7bcebb1022b7050d0fe9f24571f.git:BlitzDog.xml": [
+      "https://gist.github.com/9aa2b7bcebb1022b7050d0fe9f24571f.git",
+      "BlitzDog.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.18.8",
-    "showTerminal": false,
+    "showTerminal": true,
     "skinBranch": "master",
-    "showDevices": false,
+    "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.18.8",
     "showCreatureLab": true
