@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/553ec151a317e992b261220e0b7637e9.git:LinkedCadEngine.groovy": [
+      "https://gist.github.com/553ec151a317e992b261220e0b7637e9.git",
+      "LinkedCadEngine.groovy"
+    ],
     "https://gist.github.com/9aa2b7bcebb1022b7050d0fe9f24571f.git:BlitzDog.xml": [
       "https://gist.github.com/9aa2b7bcebb1022b7050d0fe9f24571f.git",
       "BlitzDog.xml"
